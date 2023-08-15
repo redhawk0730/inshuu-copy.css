@@ -41,7 +41,4 @@ h1{
     box-sizing: border-box;
   }
 
-  #content-input {
-    height: 100px; /* 適切な高さに調整してください */
-    width: 300px;
-  }
+  
